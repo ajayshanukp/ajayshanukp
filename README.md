@@ -1,54 +1,57 @@
-👋 Hi, I'm Ajay
-
-💻 BSc Computer Science Student | Full-Stack & System Logic Enthusiast
-
-I love building scalable web applications, designing smart system logic, and experimenting with interactive tools.
-Always focused on clean code, performance, and real-world problem solving.
-
----
+<!-- Animated Header --><h1 align="center">Hey 👋 I'm Ajay</h1><p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;System+Logic+Builder;Game+Mechanics+Explorer;Always+Learning+New+Tech" />
+</p>---
 
 🚀 About Me
 
-- 🎓 BSc Computer Science student (Calicut University)
-- 🔭 Currently working on web apps and logic-based systems
-- 🌱 Learning advanced system design & game mechanics
-- ⚡ Interested in performance optimization and automation
-- 📍 Kerala, India
+Name: Ajay
+Education: BSc Computer Science (Calicut University)
+Location: Kerala, India
+Focus: Full-Stack Development + System Logic
+Interests: Game Engines, Simulations, Automation
+Goal: Build smart and scalable systems
+
+---
+
+🧠 What I Do
+
+- ⚙️ Build logic-driven applications
+- 🌐 Create scalable web apps
+- 🎮 Experiment with game mechanics & simulations
+- 🚀 Optimize performance & backend systems
 
 ---
 
 🛠️ Tech Stack
 
-Languages:
-"JavaScript" "Python" "C++"
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,python,cpp,html,css,react,nodejs,firebase" />
+</p>---
 
-Frontend:
-"HTML" "CSS" "React"
+📊 GitHub Stats
 
-Backend & Tools:
-"Node.js" "Express" "Firebase"
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ajayshanukp&show_icons=true&theme=radical" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=ajayshanukp&theme=radical&hide_border=false" height="150"/>
+</p>---
 
----
+🌐 Connect With Me
 
-💡 Projects
+<p align="center">
+  <a href="mailto:ajayshanukp@gmail.com">
+    <img src="https://img.shields.io/badge/Email-00F7FF?style=for-the-badge&logo=gmail&logoColor=black"/>
+  </a>
+  <a href="https://www.instagram.com/ajay_shx._/">
+    <img src="https://img.shields.io/badge/Instagram-00F7FF?style=for-the-badge&logo=instagram&logoColor=black"/>
+  </a>
+</p>---
 
-- 🌐 Web applications with real-world use cases
-- ⚙️ Logic-based tools & simulations
-- 📊 Productivity tools (like attendance systems)
+🧩 Fun Zone
 
----
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ajayshanukp&theme=matrix&no-frame=true&row=1&column=6"/>
+</p>---
 
-📈 GitHub Stats
-
-"Ajay's GitHub stats" (https://github-readme-stats.vercel.app/api?username=ajayshanukp&show_icons=true&theme=radical)
-
----
-
-📫 Connect With Me
-
-- 📧 Email: ajayshanukp@gmail.com
-- 📸 Instagram: https://www.instagram.com/ajay_shx._/
-
----
-
-✨ Always building. Always learning.
+<p align="center">
+  ⚡ <i>Building logic. Creating systems. Living code.</i>
+</p>
