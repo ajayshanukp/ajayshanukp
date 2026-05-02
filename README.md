@@ -1,58 +1,53 @@
-Ajay
-
-BSc Computer Science student focused on building scalable web applications and logic-driven systems.
-
----
+<!-- Clean Aesthetic Header --><h2 align="center">Ajay</h2>
+<p align="center">Full-Stack Developer • System Logic • Clean Architecture</p><p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:0ea5e9&height=2"/>
+</p>---
 
 About
 
-I’m currently studying Computer Science at Calicut University.
-My work focuses on designing efficient backend systems, building full-stack applications, and developing structured logic for interactive tools and simulations.
+I build systems that are simple on the surface and structured underneath.
 
-I’m particularly interested in how systems behave under scale and how clean architecture improves performance and maintainability.
-
----
-
-Work & Interests
-
-- Full-stack web application development
-- Backend architecture and system design
-- Logic-based tools and simulation systems
-- Performance optimization and clean code practices
+Currently studying Computer Science at Calicut University, focusing on backend logic, scalable web applications, and performance-oriented development.
 
 ---
 
-Tech Stack
+Focus
 
-Languages
-JavaScript, Python, C++
-
-Frontend
-HTML, CSS, React
-
-Backend & Tools
-Node.js, Express, Firebase
+- Designing clean and scalable web architectures
+- Building logic-driven applications
+- Exploring simulation systems and structured problem solving
 
 ---
 
-Projects
+Stack
 
-I build practical, utility-focused applications—especially tools that solve real problems or simulate logical systems.
-Recent work includes an attendance tracking system and logic-based utilities.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,python,cpp" height="28"/>
+</p><p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,firebase" height="28"/>
+</p>---
 
----
+Selected Work
 
-GitHub
-
-"Stats" (https://github-readme-stats.vercel.app/api?username=ajayshanukp&show_icons=true&hide_title=true)
-
----
-
-Contact
-
-Email: ajayshanukp@gmail.com
-Instagram: https://www.instagram.com/ajay_shx._/
+- Attendance tracking system with predictive insights
+- Logic-based utility tools
+- Experimental system simulations
 
 ---
 
-Always learning. Always building.
+Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ajayshanukp&show_icons=true&theme=default&hide_border=true"/>
+</p>---
+
+Connect
+
+ajayshanukp@gmail.com
+https://www.instagram.com/ajay_shx._/
+
+---
+
+<p align="center">
+  <sub>build → test → optimize → repeat</sub>
+</p>
